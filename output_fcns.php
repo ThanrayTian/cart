@@ -1,4 +1,4 @@
-<~--output_fcns.php-->
+<!--output_fcns.php-->
 
 <?php
 
